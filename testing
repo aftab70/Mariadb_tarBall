@@ -1,1 +1,0 @@
-sed -i '/<!--php code goes here-->/r /home/ginger/Documents/Frontend_php/index_php_dist.txt' dist/study24x7/index.php
